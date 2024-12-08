@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on sysadmin projects or scenarios to fill out my portfolio.
 - 📫 How to reach me email, bluesky, mastadon selfhosted
 
-- ⚡ Fun fact: I lived in Asia for over 20 years. So long that I feel like a foreigner after returning to my home country.
+- ⚡ Fun fact: I lived in Asia for over 20 years. So long that I feel like a foreigner after returning to my home, Oregon USA.
 
 <!---
 This page is under construction. 
