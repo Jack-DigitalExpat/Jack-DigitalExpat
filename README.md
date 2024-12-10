@@ -1,11 +1,5 @@
 
-<---
-!README 
---->
-
 <img src="https://media.tenor.com/C8RQHnQGhYkAAAAM/mr-bean-mr-bean-holiday.gif" alt="Mr Bean hello">
-
-#ABOUT ME
 
 Allow me to succinctly, and briefly, introduce myself by getting right to the point of who I am and what experience I am gaining...in a nutshell.
 - 👋 I’m @Jack, Digital Expat. (Jack Bellows in IRL mode.)
