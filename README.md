@@ -1,3 +1,8 @@
+#README 
+<img srce="https://images.app.goo.gl/pTkaWHY8aXn8JB8u9" alt="Mr Bean's hello">
+
+#ABOUT ME
+Allow myself to introduce...myself.
 - 👋 Hi, I’m @Jack-DigitalExpat. (Jack Bellows in IRL mode.)
 - 👀 I’m interested in using practical applications and platforms, such as Shopify, Etsy, Steam.
 - 🌱 I’m currently learning CompTIA A+, ITIL4, MS365 Fundamentals, CISCO Network Fundamentals, and Python
