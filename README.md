@@ -9,7 +9,7 @@ Hello and thank you for opening this.
 - 🌱 I’m currently learning CompTIA A+, ITIL4, MS365 Fundamentals, CISCO Network Fundamentals, and Python.
 - 💞️ I’m looking to collaborate on sysadmin projects or scenarios to fill out my portfolio.
 - While I am doing this, I am working in tech support in the Portland area.
-- 📫 Reach me by email: mail.expatjack@gmail,com, LinkedIn, Bluesky, or Mastadon.
+- 📫 Reach me by email: mail.expatjack@gmail,com, LinkedIn: linkedin.com/in/jackbellowsonline/, Bluesky: @jacknode0.bsky.social, or Mastadon: @digitalexpat@hachyderm.io.
 
 - ⚡ Fun fact: I lived in Asia for over 20 years. So long that I feel like a foreigner after returning to my home, Oregon USA.
 
